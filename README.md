@@ -2,6 +2,3 @@
 Java first project - git
 Jelisaveta
 
-
-
-dsfsdfdsfsdfdsfsfs
